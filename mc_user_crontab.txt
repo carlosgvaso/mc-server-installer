@@ -1,0 +1,2 @@
+# Minecraft backup
+0 23 * * * /opt/minecraft/tools/backup.sh
